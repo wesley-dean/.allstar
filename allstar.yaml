@@ -1,6 +1,5 @@
 ---
 optConfig:
-  optIn: true
   optOutStrategy: false
   disableRepoOverride: false
 action: "issue"
