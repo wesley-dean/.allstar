@@ -5,4 +5,4 @@ optConfig:
 action: "issue"
 
 optInRepos:
-  - routeros_ssl
+  - wesley-dean/routeros_ssl
